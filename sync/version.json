@@ -1,5 +1,5 @@
 {
-  "wersja": "1.0.6",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.6.exe",
-  "opis": "Naprawiona instalacja aktualizacji przy działającym programie."
+  "wersja": "1.0.7",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.7.exe",
+  "opis": "Instalator sam zamyka działający program — aktualizacja bez ręcznego zamykania."
 }
