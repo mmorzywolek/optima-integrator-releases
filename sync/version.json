@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.15",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.15.exe",
-  "sha256": "FC026CED5E5771664F24565C8ACD5446CC44552BD8809654011B4EB849CA1BE1",
-  "opis": "Nowy dodatek: Allegro — import zamówień do Optimy (sandbox i produkcja)."
+  "wersja": "1.0.16",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.16.exe",
+  "sha256": "F527BCBC68B78682D0C3EFA4B56F0C35AF84389BA25A53FE4DB8350FC47781F3",
+  "opis": "Czytelny podział ustawień: co wspólne, co tylko WooCommerce, co Allegro."
 }
