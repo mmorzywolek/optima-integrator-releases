@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.9",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.9.exe",
-  "sha256": "8874F852EFEB9D9DBC70CA9AE4FC921C179FC0250FAB2DB326689BC659156036",
-  "opis": "Aktualizacja jednym kliknięciem — program sam pobiera i instaluje nowe wersje."
+  "wersja": "1.0.10",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.10.exe",
+  "sha256": "D27F0B031AC6C95895B5781F9237D2621E7548A582452ADED165A68DBDC5A852",
+  "opis": "Numer obcy dokumentu = sam numer zamówienia (bez WOO-), z możliwością zmiany formatu."
 }
