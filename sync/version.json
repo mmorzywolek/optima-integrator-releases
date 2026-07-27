@@ -1,5 +1,5 @@
 {
-  "wersja": "1.0.1",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.1.exe",
-  "opis": "Mapowanie toleruje spacje na końcu kodów w Optimie."
+  "wersja": "1.0.2",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.2.exe",
+  "opis": "Naprawiono zawyżone wartości dokumentów (algorytm netto/brutto wg karty kontrahenta)."
 }
