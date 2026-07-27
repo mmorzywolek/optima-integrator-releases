@@ -1,5 +1,6 @@
 {
-  "wersja": "1.0.8",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.8.exe",
-  "opis": "Czytelny komunikat błędu przy tworzeniu karty kontrahenta (autonumeracja akronimów)."
+  "wersja": "1.0.9",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.9.exe",
+  "sha256": "8874F852EFEB9D9DBC70CA9AE4FC921C179FC0250FAB2DB326689BC659156036",
+  "opis": "Aktualizacja jednym kliknięciem — program sam pobiera i instaluje nowe wersje."
 }
