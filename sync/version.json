@@ -1,5 +1,5 @@
 {
-  "wersja": "1.0.3",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.3.exe",
-  "opis": "Kontrahenci: reguły dopasowywania, aktualizacja danych kart, źródła kodów nowych kart."
+  "wersja": "1.0.4",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.4.exe",
+  "opis": "Autonumeracja akronimów dla nowych kart; czytelniejsze opcje kontrahenta."
 }
