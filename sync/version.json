@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.13",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.13.exe",
-  "sha256": "8EAFB8F9EECDACCB7D75959273CC0EAC223830D693401B6D205B855E4DBAEA3A",
-  "opis": "Tryb próbny w jednym miejscu — przełączniki u góry okna, działają od razu."
+  "wersja": "1.0.14",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.14.exe",
+  "sha256": "C1A356BC99748360C6A7DD863C0961CE5CE4306893720EC2BFCA9B4D441A8001",
+  "opis": "Spójny układ zakładek zadań; tryb próbny w panelu każdego zadania."
 }
