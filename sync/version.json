@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.10",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.10.exe",
-  "sha256": "D27F0B031AC6C95895B5781F9237D2621E7548A582452ADED165A68DBDC5A852",
-  "opis": "Numer obcy dokumentu = sam numer zamówienia (bez WOO-), z możliwością zmiany formatu."
+  "wersja": "1.0.11",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.11.exe",
+  "sha256": "9CC510B9EB56B9CA15FAECD6D5D4756548EEA80150A6321F17CFE5094E8CD417",
+  "opis": "Naprawione zawieszanie programu przy zamykaniu — koniec problemów z instalacją aktualizacji."
 }
