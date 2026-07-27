@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.14",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.14.exe",
-  "sha256": "C1A356BC99748360C6A7DD863C0961CE5CE4306893720EC2BFCA9B4D441A8001",
-  "opis": "Spójny układ zakładek zadań; tryb próbny w panelu każdego zadania."
+  "wersja": "1.0.15",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.15.exe",
+  "sha256": "FC026CED5E5771664F24565C8ACD5446CC44552BD8809654011B4EB849CA1BE1",
+  "opis": "Nowy dodatek: Allegro — import zamówień do Optimy (sandbox i produkcja)."
 }
