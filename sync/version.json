@@ -1,5 +1,5 @@
 {
-  "wersja": "1.0.7",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.7.exe",
-  "opis": "Instalator sam zamyka działający program — aktualizacja bez ręcznego zamykania."
+  "wersja": "1.0.8",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.8.exe",
+  "opis": "Czytelny komunikat błędu przy tworzeniu karty kontrahenta (autonumeracja akronimów)."
 }
