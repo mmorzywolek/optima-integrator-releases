@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.16",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.16.exe",
-  "sha256": "F527BCBC68B78682D0C3EFA4B56F0C35AF84389BA25A53FE4DB8350FC47781F3",
-  "opis": "Czytelny podział ustawień: co wspólne, co tylko WooCommerce, co Allegro."
+  "wersja": "1.0.17",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.17.exe",
+  "sha256": "99A2EBC7A0021CB231BD0A3E03156E1D06A369809A7C377AC4114760A157FC35",
+  "opis": "Allegro: jeden przycisk „Połącz z Allegro” i potwierdzenie połączenia."
 }
