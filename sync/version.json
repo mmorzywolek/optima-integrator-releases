@@ -1,5 +1,5 @@
 {
-  "wersja": "1.0.2",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.2.exe",
-  "opis": "Naprawiono zawyżone wartości dokumentów (algorytm netto/brutto wg karty kontrahenta)."
+  "wersja": "1.0.3",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.3.exe",
+  "opis": "Kontrahenci: reguły dopasowywania, aktualizacja danych kart, źródła kodów nowych kart."
 }
