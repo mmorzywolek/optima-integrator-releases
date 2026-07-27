@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.12",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.12.exe",
-  "sha256": "6D18249754EB55859C44F440C19B1E2DAD3929A6D8066DF55EECF37AA2809B5E",
-  "opis": "Tryb próbny osobno dla zamówień, stanów i cen."
+  "wersja": "1.0.13",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.13.exe",
+  "sha256": "8EAFB8F9EECDACCB7D75959273CC0EAC223830D693401B6D205B855E4DBAEA3A",
+  "opis": "Tryb próbny w jednym miejscu — przełączniki u góry okna, działają od razu."
 }
