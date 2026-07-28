@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.37",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.37.exe",
-  "sha256": "729EDDA8FF9DA08E12A19229E25754F9D6A0E38267A07F9F133684BCAD5FCD63",
-  "opis": "Pasek postępu długich operacji + poprawka pobierania dużego katalogu PrestaShop."
+  "wersja": "1.0.38",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.38.exe",
+  "sha256": "2D3C08CC6560F8F0B2289B3B1446B5A7306B1C5121B786DED4F8A5B9A2459975",
+  "opis": "Szybsze i widoczne dopasowywanie do towarów Optimy przy dużych katalogach."
 }
