@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.28",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.28.exe",
-  "sha256": "2EB689C5FD73134539BC357B10A9D2B0E960C5DAE4B111CB23FE6129A5D8705B",
-  "opis": "PrestaShop 1.6: poprawka odczytu zamówień z pustymi powiązaniami."
+  "wersja": "1.0.29",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.29.exe",
+  "sha256": "3C45B00CC87643A87C7BCD2C39A4C51030B90AC99BFFE01DEA6E0767D0A029B9",
+  "opis": "PrestaShop: komplet ustawień importu — pełna zgodność z zakresem WooCommerce."
 }
