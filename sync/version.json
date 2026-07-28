@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.22",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.22.exe",
-  "sha256": "E99DFF7DBFA2712F08D3CCDB023D72C0D0C8DD49469C5F9B670875BEF89E086E",
-  "opis": "Instrukcje krok po kroku dla Allegro; uporządkowane opisy WooCommerce."
+  "wersja": "1.0.23",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.23.exe",
+  "sha256": "AE5007CD6BD9F82019A8A90F84D656DA0A3E55350BC560B35283791E27EBC2AD",
+  "opis": "Panel Allegro: pełne opisy pól (symbole, magazyn, seria, kategoria, kwoty)."
 }
