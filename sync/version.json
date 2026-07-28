@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.24",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.24.exe",
-  "sha256": "8B3199EB8500D93B59FBEFE2FB56743164D6987F96E2906D4188AB610A510EBA",
-  "opis": "Dziennik: filtr i kolumna integracji (WooCommerce / Allegro)."
+  "wersja": "1.0.25",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.25.exe",
+  "sha256": "732AEA0E2B8567C8C16AB1B658436909D8FF3272F85D4AB6D5CDF552D3810093",
+  "opis": "Nowy dodatek: PrestaShop — import zamówień do Optimy ze statusami zwrotnymi."
 }
