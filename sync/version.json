@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.23",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.23.exe",
-  "sha256": "AE5007CD6BD9F82019A8A90F84D656DA0A3E55350BC560B35283791E27EBC2AD",
-  "opis": "Panel Allegro: pełne opisy pól (symbole, magazyn, seria, kategoria, kwoty)."
+  "wersja": "1.0.24",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.24.exe",
+  "sha256": "8B3199EB8500D93B59FBEFE2FB56743164D6987F96E2906D4188AB610A510EBA",
+  "opis": "Dziennik: filtr i kolumna integracji (WooCommerce / Allegro)."
 }
