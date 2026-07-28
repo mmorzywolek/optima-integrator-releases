@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.26",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.26.exe",
-  "sha256": "CD7A59ADB37209E8E8FDEA32EE492EE5BD3363FCA189EED1AF60A92548F330C5",
-  "opis": "PrestaShop: statusy z listy sklepu, wsparcie wersji 1.6, auto-https w adresach."
+  "wersja": "1.0.27",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.27.exe",
+  "sha256": "A7A6201894295BC43E7C332D90FA87FD201298E2D18852551520F82E9F733E1D",
+  "opis": "PrestaShop: naprawione pobieranie zamówień (filtr zakresu dat)."
 }
