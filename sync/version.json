@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.21",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.21.exe",
-  "sha256": "5340252DA05ABD2CF9F35B74EE90D2084D0EB48F860C3DE9ECCAE264F8708406",
-  "opis": "Allegro: wybór etapów zamówień do importu + pomijanie nadanych przesyłek."
+  "wersja": "1.0.22",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.22.exe",
+  "sha256": "E99DFF7DBFA2712F08D3CCDB023D72C0D0C8DD49469C5F9B670875BEF89E086E",
+  "opis": "Instrukcje krok po kroku dla Allegro; uporządkowane opisy WooCommerce."
 }
