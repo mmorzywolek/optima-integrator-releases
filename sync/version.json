@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.30",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.30.exe",
-  "sha256": "5FBB782E9EEEE75730E78399693CAB9791F281B5FB2358C78705FE22CB3B51CF",
-  "opis": "Stany dla PrestaShop; magazyny i statusy wybierane z list; drobne poprawki UI."
+  "wersja": "1.0.31",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.31.exe",
+  "sha256": "66F21A26534F718209A64DA8C266B2FD75E91EEFBE600FA1AE317D201F6E4B1B",
+  "opis": "Zamówienia PrestaShop: sekcje i opisy 1:1 ze sklepem WooCommerce."
 }
