@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.34",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.34.exe",
-  "sha256": "7A00FAFA013A0157D609D56C1B9B9EA2140EEBF1E425A964C1A7DE0C112F3F75",
-  "opis": "Poprawka wyglądu list rozwijanych (wyśrodkowana wybrana wartość)."
+  "wersja": "1.0.35",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.35.exe",
+  "sha256": "7C25DAAE9BCC270D1EDD01F6CAFED948D93968575340887A7350DB9DD86E2F81",
+  "opis": "PrestaShop: pełny katalog produktów (pobieranie stronami, bez limitu 5000)."
 }
