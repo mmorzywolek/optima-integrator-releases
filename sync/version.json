@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.19",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.19.exe",
-  "sha256": "B026B7083E7E1F4347C1B229AD352B4D9163059576729D4C252225EDF4537DBE",
-  "opis": "Nowa nawigacja Integracje — osobne ustawienia dla WooCommerce i Allegro."
+  "wersja": "1.0.20",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.20.exe",
+  "sha256": "2D17089F07B25D0AAECA4130181B2DC0EBC17A9C6115972EBAA762E9A7224A44",
+  "opis": "Allegro: zakres dni wstecz w ustawieniach; poprawiony filtr dat."
 }
