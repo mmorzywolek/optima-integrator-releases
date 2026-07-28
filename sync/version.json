@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.18",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.18.exe",
-  "sha256": "E68DD1E4B86FDFFB75E7DEA9F8A71A8176235C12D39CE05923083695BEF91F65",
-  "opis": "Naprawione stany/ceny dla kodów ze spacją na końcu (DZIEDZILLA, mydła)."
+  "wersja": "1.0.19",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.19.exe",
+  "sha256": "B026B7083E7E1F4347C1B229AD352B4D9163059576729D4C252225EDF4537DBE",
+  "opis": "Nowa nawigacja Integracje — osobne ustawienia dla WooCommerce i Allegro."
 }
