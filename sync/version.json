@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.36",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.36.exe",
-  "sha256": "36E149618081E7664A264E085A121859A1E2D043E9C94599593DAA71E9B8FD9F",
-  "opis": "PrestaShop: pełny katalog produktów — pobieranie zakresami id, dłuższy limit czasu."
+  "wersja": "1.0.37",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.37.exe",
+  "sha256": "729EDDA8FF9DA08E12A19229E25754F9D6A0E38267A07F9F133684BCAD5FCD63",
+  "opis": "Pasek postępu długich operacji + poprawka pobierania dużego katalogu PrestaShop."
 }
