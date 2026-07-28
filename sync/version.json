@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.20",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.20.exe",
-  "sha256": "2D17089F07B25D0AAECA4130181B2DC0EBC17A9C6115972EBAA762E9A7224A44",
-  "opis": "Allegro: zakres dni wstecz w ustawieniach; poprawiony filtr dat."
+  "wersja": "1.0.21",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.21.exe",
+  "sha256": "5340252DA05ABD2CF9F35B74EE90D2084D0EB48F860C3DE9ECCAE264F8708406",
+  "opis": "Allegro: wybór etapów zamówień do importu + pomijanie nadanych przesyłek."
 }
