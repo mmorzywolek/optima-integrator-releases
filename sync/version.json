@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.17",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.17.exe",
-  "sha256": "99A2EBC7A0021CB231BD0A3E03156E1D06A369809A7C377AC4114760A157FC35",
-  "opis": "Allegro: jeden przycisk „Połącz z Allegro” i potwierdzenie połączenia."
+  "wersja": "1.0.18",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.18.exe",
+  "sha256": "E68DD1E4B86FDFFB75E7DEA9F8A71A8176235C12D39CE05923083695BEF91F65",
+  "opis": "Naprawione stany/ceny dla kodów ze spacją na końcu (DZIEDZILLA, mydła)."
 }
