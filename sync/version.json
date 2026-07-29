@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.42",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.42.exe",
-  "sha256": "ADB50C88E60AFC9A89313340FDB762F8DE4C86792235E9EDC7C97E6356382919",
-  "opis": "Zamówienia: widać, który dokument blokuje ponowny import; szablon numeru obcego PrestaShop nie zmienia się sam."
+  "wersja": "1.0.43",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.43.exe",
+  "sha256": "8D03EF1437F551988B7BB83D1C7AA73B23455C8A0D25306E1F3C9D6F4A2B56BC",
+  "opis": "Suma dokumentu zgadza się z zamówieniem co do grosza (podział VAT ze sklepu)."
 }
