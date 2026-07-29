@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.39",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.39.exe",
-  "sha256": "C82C02F71FC1A15A4881AB8AEBE36B3BBA1F841731C4BBBAA07A272B00576CA4",
-  "opis": "Allegro: nagłówek User-Agent w żądaniach (poprawka błędów dostępu do API)."
+  "wersja": "1.0.40",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.40.exe",
+  "sha256": "C0B770DF448BB6386CC955B04ADD32319D7918B5FDAC70BF0E1468AF9438F0C6",
+  "opis": "Poprawka dopasowywania towarów z końcową spacją w kodzie/SKU (np. MYDŁO LAWENDA)."
 }
