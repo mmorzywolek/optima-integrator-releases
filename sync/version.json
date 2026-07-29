@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.44",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.44.exe",
-  "sha256": "D2A0872E58EB5F0CA7CE441B3EC548012FC40FF7465FEF9F757E41BFBDEEE730",
-  "opis": "Dokumenty liczone od brutto (przekształcenie RO w paragon) i sumy co do grosza jak w sklepie."
+  "wersja": "1.0.45",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.45.exe",
+  "sha256": "AF9AEE5BBB1B12891A027404DEC2684B5193C0483480D5577E51649CE88E6042",
+  "opis": "Dokumenty liczone od brutto (przekształcenie w paragon działa) i sumy co do grosza jak w sklepie."
 }
