@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.45",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.45.exe",
-  "sha256": "AF9AEE5BBB1B12891A027404DEC2684B5193C0483480D5577E51649CE88E6042",
-  "opis": "Dokumenty liczone od brutto (przekształcenie w paragon działa) i sumy co do grosza jak w sklepie."
+  "wersja": "1.0.46",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.46.exe",
+  "sha256": "DC4B066EADB95E0A1882EE85657EEFFEB0F2D43D772461E9F4D6CE5A757EA828",
+  "opis": "Przekształcenie dokumentu z zamówienia (np. na paragon) działa: ilość × cena zgadza się z wartością."
 }
