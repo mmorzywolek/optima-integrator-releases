@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.41",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.41.exe",
-  "sha256": "D36E0B820173B47DA2C849688FF130E5B720F0CF7C562C8FE32C674EFB1C3CCA",
-  "opis": "Zamówienia: podsumowanie pokazuje, który dokument w Optimie blokuje ponowny import (numer obcy → dokument)."
+  "wersja": "1.0.42",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.42.exe",
+  "sha256": "ADB50C88E60AFC9A89313340FDB762F8DE4C86792235E9EDC7C97E6356382919",
+  "opis": "Zamówienia: widać, który dokument blokuje ponowny import; szablon numeru obcego PrestaShop nie zmienia się sam."
 }
