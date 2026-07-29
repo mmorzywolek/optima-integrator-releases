@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.43",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.43.exe",
-  "sha256": "8D03EF1437F551988B7BB83D1C7AA73B23455C8A0D25306E1F3C9D6F4A2B56BC",
-  "opis": "Suma dokumentu zgadza się z zamówieniem co do grosza (podział VAT ze sklepu)."
+  "wersja": "1.0.44",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.44.exe",
+  "sha256": "D2A0872E58EB5F0CA7CE441B3EC548012FC40FF7465FEF9F757E41BFBDEEE730",
+  "opis": "Dokumenty liczone od brutto (przekształcenie RO w paragon) i sumy co do grosza jak w sklepie."
 }
