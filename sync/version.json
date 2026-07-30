@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.48",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.48.exe",
-  "sha256": "9A855165C877B50C60F4AF679FCE3E9E84C48ED58EBCF943371E735114AB2E1C",
-  "opis": "Wyjątki jednostek z pliku CSV/XLSX oraz szybka synchronizacja przy setkach wyjątków."
+  "wersja": "1.0.49",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.49.exe",
+  "sha256": "4A100631A2A6ACF5CF9F3D9E97869A4A32744E73279F64DD772679A702E17F18",
+  "opis": "Nowa zakładka Ceny dla PrestaShop (Optima → sklep) oraz poprawka zapytań przy dużych katalogach."
 }
