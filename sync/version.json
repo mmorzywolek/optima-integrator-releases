@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.50",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.50.exe",
-  "sha256": "AAE8CCD96C0C9D6B780856DCB1C5B6A27AE4962391D2BA8AB28448EBF278F5E3",
-  "opis": "Nowa zakładka Produkty dla PrestaShop — zakładanie i aktualizacja kartotek Optima → sklep."
+  "wersja": "1.0.51",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.51.exe",
+  "sha256": "440460914C3620B4FD95D61CC092B7DD7DC038482C36668C14D266CEA4BC649B",
+  "opis": "Zakładka Produkty dla PrestaShop wysyła też zdjęcia z kartoteki towaru."
 }
