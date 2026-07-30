@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.49",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.49.exe",
-  "sha256": "4A100631A2A6ACF5CF9F3D9E97869A4A32744E73279F64DD772679A702E17F18",
-  "opis": "Nowa zakładka Ceny dla PrestaShop (Optima → sklep) oraz poprawka zapytań przy dużych katalogach."
+  "wersja": "1.0.50",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.50.exe",
+  "sha256": "AAE8CCD96C0C9D6B780856DCB1C5B6A27AE4962391D2BA8AB28448EBF278F5E3",
+  "opis": "Nowa zakładka Produkty dla PrestaShop — zakładanie i aktualizacja kartotek Optima → sklep."
 }
