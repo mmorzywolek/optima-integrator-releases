@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.46",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.46.exe",
-  "sha256": "DC4B066EADB95E0A1882EE85657EEFFEB0F2D43D772461E9F4D6CE5A757EA828",
-  "opis": "Przekształcenie dokumentu z zamówienia (np. na paragon) działa: ilość × cena zgadza się z wartością."
+  "wersja": "1.0.47",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.47.exe",
+  "sha256": "91B332CCADDBAE6F06F04340DB3E14624DAF7628DF14B7DDF3C40CFBE3D5920A",
+  "opis": "Wyjątki jednostek można wczytać z pliku CSV/XLSX (z kontrolą nazw jednostek) i zapisać do pliku."
 }
