@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.47",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.47.exe",
-  "sha256": "91B332CCADDBAE6F06F04340DB3E14624DAF7628DF14B7DDF3C40CFBE3D5920A",
-  "opis": "Wyjątki jednostek można wczytać z pliku CSV/XLSX (z kontrolą nazw jednostek) i zapisać do pliku."
+  "wersja": "1.0.48",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.48.exe",
+  "sha256": "9A855165C877B50C60F4AF679FCE3E9E84C48ED58EBCF943371E735114AB2E1C",
+  "opis": "Wyjątki jednostek z pliku CSV/XLSX oraz szybka synchronizacja przy setkach wyjątków."
 }
