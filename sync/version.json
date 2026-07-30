@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.51",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.51.exe",
-  "sha256": "440460914C3620B4FD95D61CC092B7DD7DC038482C36668C14D266CEA4BC649B",
-  "opis": "Zakładka Produkty dla PrestaShop wysyła też zdjęcia z kartoteki towaru."
+  "wersja": "1.0.52",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.52.exe",
+  "sha256": "112265AC058E402DA5FCB58EB56064BF6878F12F760A4DC4805D6BEBB187EDB6",
+  "opis": "Nowe produkty w PrestaShop powstają domyślnie wyłączone — do sprawdzenia przed sprzedażą."
 }
