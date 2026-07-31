@@ -1,6 +1,6 @@
 {
-  "wersja": "1.0.53",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.53.exe",
-  "sha256": "C7A933FF10E9E8337ED0427BA58C43F0D3E5071689ECB4EE9C0BF7B5E8EE34B8",
-  "opis": "Przy węższym oknie kontrolki w wierszach reguł nie znikają — wiersze zawijają się do kolejnej linii."
+  "wersja": "1.0.54",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.54.exe",
+  "sha256": "42887367E21F51D0D0E39E042888418A4E81EC68F06D8DC7A7574A5CF6D0B19D",
+  "opis": "Krótsze opisy w zakładce Produkty (PrestaShop)."
 }
