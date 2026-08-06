@@ -1,6 +1,29 @@
 {
-  "wersja": "1.2.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.2.0.exe",
-  "sha256": "93BDED93E35A195B5A4FF99510E126FCF5D167C543A452B2DAFAC085980D63AC",
-  "opis": "Nadrabianie zaległości po przerwie (zamówienia nie przepadają) i ostrzeżenie, gdy synchronizacja stanie."
+  "wersja": "1.3.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.3.0.exe",
+  "sha256": "A7FF7896F4EFC5AAAA2C74F17CDFABE809DF1169C78BD8FB3C14C2C7ABC4578A",
+  "opis": "Automatyczna aktualizacja do wersji zgodnej z zainstalowaną Optimą.",
+  "wersje": [
+    {
+      "wersja": "1.3.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.3.0.exe",
+      "sha256": "A7FF7896F4EFC5AAAA2C74F17CDFABE809DF1169C78BD8FB3C14C2C7ABC4578A",
+      "opis": "Automatyczna aktualizacja do wersji zgodnej z zainstalowaną Optimą.",
+      "optimaOd": "2026.5"
+    },
+    {
+      "wersja": "1.2.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.2.0.exe",
+      "sha256": "93BDED93E35A195B5A4FF99510E126FCF5D167C543A452B2DAFAC085980D63AC",
+      "opis": "Nadrabianie zaległości i ostrzeżenie, gdy synchronizacja stanie.",
+      "optimaOd": "2026.5"
+    },
+    {
+      "wersja": "1.0.54",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.0.54.exe",
+      "sha256": "42887367E21F51D0D0E39E042888418A4E81EC68F06D8DC7A7574A5CF6D0B19D",
+      "opis": "Ostatnia wersja dla 32-bitowej Optimy (do 2026.4).",
+      "optimaDo": "2026.4"
+    }
+  ]
 }
