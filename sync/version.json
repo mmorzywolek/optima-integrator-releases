@@ -1,6 +1,6 @@
 {
-  "wersja": "1.1.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.1.0.exe",
-  "sha256": "880759CD182CA535EB4760CE8A93767000F9FB5D0AEA4E8C6D8DC92C2C5EBD0E",
-  "opis": "Obsługa Comarch ERP Optima 2026.5 (64-bit). Bez tej aktualizacji logowanie do Optimy kończy się błędem 0x8007007E i żadne zadanie się nie wykonuje."
+  "wersja": "1.2.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.2.0.exe",
+  "sha256": "93BDED93E35A195B5A4FF99510E126FCF5D167C543A452B2DAFAC085980D63AC",
+  "opis": "Nadrabianie zaległości po przerwie (zamówienia nie przepadają) i ostrzeżenie, gdy synchronizacja stanie."
 }
