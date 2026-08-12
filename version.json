@@ -1,5 +1,21 @@
 {
-  "wersja": "1.3.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.3.0.exe",
-  "opis": "Pierwsze publiczne wydanie."
+  "wersja": "1.6.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.6.0.exe",
+  "sha256": "BF81A32844F0AE2101CF6896D509CA38588ECD0588C66E91AB3A8888934880A5",
+  "opis": "Licencja związana z firmą, aktualizacja jednym kliknięciem, wersja próbna.",
+  "wersje": [
+    {
+      "wersja": "1.6.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.6.0.exe",
+      "sha256": "BF81A32844F0AE2101CF6896D509CA38588ECD0588C66E91AB3A8888934880A5",
+      "opis": "Licencja związana z firmą, aktualizacja jednym kliknięciem, wersja próbna.",
+      "optimaOd": "2026.5"
+    },
+    {
+      "wersja": "1.3.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.3.0.exe",
+      "opis": "Ostatnia wersja dla 32-bitowej Optimy (do 2026.4).",
+      "optimaDo": "2026.4"
+    }
+  ]
 }
