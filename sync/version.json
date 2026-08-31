@@ -1,9 +1,16 @@
 {
-  "wersja": "1.4.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.4.0.exe",
-  "sha256": "DD3963C22617F36765B5BE3301662BD10AA21982404738845D4B4A5608E988B4",
-  "opis": "Licencja związana z firmą (NIP) — blokada przy niezgodności.",
+  "wersja": "1.5.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.5.0.exe",
+  "sha256": "4C417B1682B9E811A649CB44AA18D205BFE2EA814944203F13C354BAA948D184",
+  "opis": "Dodatkowe opłaty z zamówienia (kaucja) trafiają na dokument z policzoną ilością.",
   "wersje": [
+    {
+      "wersja": "1.5.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.5.0.exe",
+      "sha256": "4C417B1682B9E811A649CB44AA18D205BFE2EA814944203F13C354BAA948D184",
+      "opis": "Dodatkowe opłaty z zamówienia (kaucja) trafiają na dokument z policzoną ilością.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.4.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.4.0.exe",
