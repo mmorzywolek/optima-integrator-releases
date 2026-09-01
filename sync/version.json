@@ -1,9 +1,16 @@
 {
-  "wersja": "1.5.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.5.0.exe",
-  "sha256": "4C417B1682B9E811A649CB44AA18D205BFE2EA814944203F13C354BAA948D184",
-  "opis": "Dodatkowe opłaty z zamówienia (kaucja) trafiają na dokument z policzoną ilością.",
+  "wersja": "1.5.1",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.5.1.exe",
+  "sha256": "5FDD6464BA27EA4ABB5923890809DB56EF78F03846479D2D27E54E22EDFD69B2",
+  "opis": "Wycofane dodatkowe opłaty — kaucję Optima nalicza sama (WKA), doliczanie jej dublowało kwotę.",
   "wersje": [
+    {
+      "wersja": "1.5.1",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.5.1.exe",
+      "sha256": "5FDD6464BA27EA4ABB5923890809DB56EF78F03846479D2D27E54E22EDFD69B2",
+      "opis": "Wycofane dodatkowe opłaty — kaucję Optima nalicza sama (WKA), doliczanie jej dublowało kwotę.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.5.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.5.0.exe",
