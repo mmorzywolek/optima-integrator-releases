@@ -1,9 +1,16 @@
 {
-  "wersja": "1.7.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.7.0.exe",
-  "sha256": "E0B9DDBBB1FE9A106771DA3B7893F9A1271D40A8034347EDB156BB755F8529C6",
-  "opis": "Termin zwrotu kaucji przy zakładaniu kontrahenta, stack trace nieobsłużonych błędów w logu.",
+  "wersja": "1.8.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.8.0.exe",
+  "sha256": "4EC425273120F502A88BFAC596BBCF99ED26520A9600C8FFDD60EB6BBC8C6A37",
+  "opis": "Dodawanie i edycja jednostek pomocniczych towaru (API + narzędzie MCP).",
   "wersje": [
+    {
+      "wersja": "1.8.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.8.0.exe",
+      "sha256": "4EC425273120F502A88BFAC596BBCF99ED26520A9600C8FFDD60EB6BBC8C6A37",
+      "opis": "Dodawanie i edycja jednostek pomocniczych towaru (API + narzędzie MCP).",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.7.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.7.0.exe",
