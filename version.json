@@ -1,9 +1,16 @@
 {
-  "wersja": "1.8.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.8.0.exe",
-  "sha256": "4EC425273120F502A88BFAC596BBCF99ED26520A9600C8FFDD60EB6BBC8C6A37",
-  "opis": "Dodawanie i edycja jednostek pomocniczych towaru (API + narzędzie MCP).",
+  "wersja": "1.9.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.9.0.exe",
+  "sha256": "2B2A7168414D5CD2F5EEF8294A5104C563E893CE699EDCC599E4D443A6B039F7",
+  "opis": "Atrybuty: definicje, słowniki list i zapis na towarze, kontrahencie i dokumencie.",
   "wersje": [
+    {
+      "wersja": "1.9.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.9.0.exe",
+      "sha256": "2B2A7168414D5CD2F5EEF8294A5104C563E893CE699EDCC599E4D443A6B039F7",
+      "opis": "Atrybuty: definicje, słowniki list i zapis na towarze, kontrahencie i dokumencie.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.8.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.8.0.exe",
