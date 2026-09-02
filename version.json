@@ -1,9 +1,16 @@
 {
-  "wersja": "1.6.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.6.0.exe",
-  "sha256": "BF81A32844F0AE2101CF6896D509CA38588ECD0588C66E91AB3A8888934880A5",
-  "opis": "Licencja związana z firmą, aktualizacja jednym kliknięciem, wersja próbna.",
+  "wersja": "1.7.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.7.0.exe",
+  "sha256": "E0B9DDBBB1FE9A106771DA3B7893F9A1271D40A8034347EDB156BB755F8529C6",
+  "opis": "Termin zwrotu kaucji przy zakładaniu kontrahenta, stack trace nieobsłużonych błędów w logu.",
   "wersje": [
+    {
+      "wersja": "1.7.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.7.0.exe",
+      "sha256": "E0B9DDBBB1FE9A106771DA3B7893F9A1271D40A8034347EDB156BB755F8529C6",
+      "opis": "Termin zwrotu kaucji przy zakładaniu kontrahenta, stack trace nieobsłużonych błędów w logu.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.6.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.6.0.exe",
