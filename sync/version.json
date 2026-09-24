@@ -1,9 +1,16 @@
 {
-  "wersja": "1.7.2",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.7.2.exe",
-  "sha256": "7EB9255559E3815B264D457AECA5FAA0DC0038BE3CE9FBFD45F83F9A915BFBF8",
-  "opis": "Szybsze wysyłanie ilości do Allegro; oferta odrzucona przez Allegro nie psuje całego przebiegu.",
+  "wersja": "1.7.3",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.7.3.exe",
+  "sha256": "71674FC76DB23B4354C8A93588224B9C781FB335A92BC1C5226A8C029BE4CE2E",
+  "opis": "Brak nowych zamówień nie jest już zgłaszany jako awaria; komunikaty mówią, której integracji dotyczą.",
   "wersje": [
+    {
+      "wersja": "1.7.3",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.7.3.exe",
+      "sha256": "71674FC76DB23B4354C8A93588224B9C781FB335A92BC1C5226A8C029BE4CE2E",
+      "opis": "Brak nowych zamówień nie jest już zgłaszany jako awaria; komunikaty mówią, której integracji dotyczą.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.7.2",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.7.2.exe",
