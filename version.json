@@ -1,9 +1,16 @@
 {
-  "wersja": "1.9.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.9.0.exe",
-  "sha256": "2B2A7168414D5CD2F5EEF8294A5104C563E893CE699EDCC599E4D443A6B039F7",
-  "opis": "Atrybuty: definicje, słowniki list i zapis na towarze, kontrahencie i dokumencie.",
+  "wersja": "1.10.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.10.0.exe",
+  "sha256": "D1E058044BD0472908EA05EEF2CF744C84612E81261267DCBBB0F5C42DDEAE50",
+  "opis": "Arkusze inwentaryzacyjne: zakładanie, dokładanie pozycji i wpisywanie spisu (API + narzędzia MCP).",
   "wersje": [
+    {
+      "wersja": "1.10.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.10.0.exe",
+      "sha256": "D1E058044BD0472908EA05EEF2CF744C84612E81261267DCBBB0F5C42DDEAE50",
+      "opis": "Arkusze inwentaryzacyjne: zakładanie, dokładanie pozycji i wpisywanie spisu (API + narzędzia MCP).",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.9.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.9.0.exe",
