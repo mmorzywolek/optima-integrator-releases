@@ -1,9 +1,16 @@
 {
-  "wersja": "1.8.1",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.1.exe",
-  "sha256": "E3ACB81BA7204ED25C76D58686D08EB1ED1EDEDFE04574A77FC4A68298A78FE3",
-  "opis": "Rozbijanie na składniki obejmuje tylko zestawy wpisane na listę — wyroby z recepturą produkcyjną zostają na dokumencie bez zmian.",
+  "wersja": "1.8.2",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.2.exe",
+  "sha256": "3485DD709EC646622F2BBBD7CBA8FD6F645860B641E08795005FBAC300E09061",
+  "opis": "Zestawy do rozbicia wybierane z wyszukiwarki; cennik do podziału ceny jest opcjonalny (bez niego po równo na sztukę).",
   "wersje": [
+    {
+      "wersja": "1.8.2",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.2.exe",
+      "sha256": "3485DD709EC646622F2BBBD7CBA8FD6F645860B641E08795005FBAC300E09061",
+      "opis": "Zestawy do rozbicia wybierane z wyszukiwarki; cennik do podziału ceny jest opcjonalny (bez niego po równo na sztukę).",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.8.1",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.1.exe",
