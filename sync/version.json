@@ -1,9 +1,16 @@
 {
-  "wersja": "1.8.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.0.exe",
-  "sha256": "714927CDE1BE62249BFCA78DE294DDF8C201EB35871A69604219A3C039FCEE20",
-  "opis": "Towary złożone mogą trafiać na dokument jako składniki z receptury (paleta w jednostce pomocniczej, zestaw z ceną podzieloną według cennika).",
+  "wersja": "1.8.1",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.1.exe",
+  "sha256": "E3ACB81BA7204ED25C76D58686D08EB1ED1EDEDFE04574A77FC4A68298A78FE3",
+  "opis": "Rozbijanie na składniki obejmuje tylko zestawy wpisane na listę — wyroby z recepturą produkcyjną zostają na dokumencie bez zmian.",
   "wersje": [
+    {
+      "wersja": "1.8.1",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.1.exe",
+      "sha256": "E3ACB81BA7204ED25C76D58686D08EB1ED1EDEDFE04574A77FC4A68298A78FE3",
+      "opis": "Rozbijanie na składniki obejmuje tylko zestawy wpisane na listę — wyroby z recepturą produkcyjną zostają na dokumencie bez zmian.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.8.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.0.exe",
