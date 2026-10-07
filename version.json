@@ -1,9 +1,16 @@
 {
-  "wersja": "1.10.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.10.0.exe",
-  "sha256": "D1E058044BD0472908EA05EEF2CF744C84612E81261267DCBBB0F5C42DDEAE50",
-  "opis": "Arkusze inwentaryzacyjne: zakładanie, dokładanie pozycji i wpisywanie spisu (API + narzędzia MCP).",
+  "wersja": "1.11.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.11.0.exe",
+  "sha256": "9A4D3ED2EEDBFA38194C6F8F233C57A08A6ADFFC843B1302362BCB820A16641B",
+  "opis": "Wydruk etykiet towarów szablonami z Optimy: lista szablonów, podgląd jako obraz i wydruk (API + narzędzia MCP).",
   "wersje": [
+    {
+      "wersja": "1.11.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.11.0.exe",
+      "sha256": "9A4D3ED2EEDBFA38194C6F8F233C57A08A6ADFFC843B1302362BCB820A16641B",
+      "opis": "Wydruk etykiet towarów szablonami z Optimy: lista szablonów, podgląd jako obraz i wydruk (API + narzędzia MCP).",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.10.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.10.0.exe",
