@@ -1,9 +1,16 @@
 {
-  "wersja": "1.7.3",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.7.3.exe",
-  "sha256": "71674FC76DB23B4354C8A93588224B9C781FB335A92BC1C5226A8C029BE4CE2E",
-  "opis": "Brak nowych zamówień nie jest już zgłaszany jako awaria; komunikaty mówią, której integracji dotyczą.",
+  "wersja": "1.8.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.0.exe",
+  "sha256": "714927CDE1BE62249BFCA78DE294DDF8C201EB35871A69604219A3C039FCEE20",
+  "opis": "Towary złożone mogą trafiać na dokument jako składniki z receptury (paleta w jednostce pomocniczej, zestaw z ceną podzieloną według cennika).",
   "wersje": [
+    {
+      "wersja": "1.8.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.0.exe",
+      "sha256": "714927CDE1BE62249BFCA78DE294DDF8C201EB35871A69604219A3C039FCEE20",
+      "opis": "Towary złożone mogą trafiać na dokument jako składniki z receptury (paleta w jednostce pomocniczej, zestaw z ceną podzieloną według cennika).",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.7.3",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.7.3.exe",
