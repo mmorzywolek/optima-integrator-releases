@@ -1,9 +1,16 @@
 {
-  "wersja": "1.11.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.11.0.exe",
-  "sha256": "9A4D3ED2EEDBFA38194C6F8F233C57A08A6ADFFC843B1302362BCB820A16641B",
-  "opis": "Wydruk etykiet towarów szablonami z Optimy: lista szablonów, podgląd jako obraz i wydruk (API + narzędzia MCP).",
+  "wersja": "1.12.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.12.0.exe",
+  "sha256": "34CCCEF864513EBD65A7DFF1FC7ECD295DC180489D175AAEFD2375F837A30B21",
+  "opis": "Opis towaru przy zakładaniu i edycji produktu (API + narzędzia MCP).",
   "wersje": [
+    {
+      "wersja": "1.12.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.12.0.exe",
+      "sha256": "34CCCEF864513EBD65A7DFF1FC7ECD295DC180489D175AAEFD2375F837A30B21",
+      "opis": "Opis towaru przy zakładaniu i edycji produktu (API + narzędzia MCP).",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.11.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.11.0.exe",
