@@ -1,9 +1,16 @@
 {
-  "wersja": "1.13.0",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.13.0.exe",
-  "sha256": "2FBDFD03F40604A7AA7F3A65BF6511BDA945CEB210875888844A0A619B48541E",
-  "opis": "Ochrona danych kadrowo-płacowych w raportowaniu SQL: blokada tabel Kadr i Płac, wypłat pracowników i ich kont.",
+  "wersja": "1.13.1",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.13.1.exe",
+  "sha256": "0111C34A0722A7C7FF6042E49B942AD881BE91E69ACF538BED7F97AF2D6194E9",
+  "opis": "Poprawka: WZ zakładane przez API nie dawały się przekształcić do faktury ani anulować (zły rodzaj dokumentu WZ i PZ).",
   "wersje": [
+    {
+      "wersja": "1.13.1",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.13.1.exe",
+      "sha256": "0111C34A0722A7C7FF6042E49B942AD881BE91E69ACF538BED7F97AF2D6194E9",
+      "opis": "Poprawka: WZ zakładane przez API nie dawały się przekształcić do faktury ani anulować (zły rodzaj dokumentu WZ i PZ).",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.13.0",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/OptimaIntegrator-setup-1.13.0.exe",
