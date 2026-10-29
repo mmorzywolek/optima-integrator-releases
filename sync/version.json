@@ -1,9 +1,16 @@
 {
-  "wersja": "1.8.3",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.3.exe",
-  "sha256": "9854A461D8C58E98642155E342CC65F802BAD5E07B769208DD54235150F4A2D9",
-  "opis": "Rozbijanie zestawów w panelu Zaawansowane; lista zestawów z filtrem i dodawaniem wielu naraz.",
+  "wersja": "1.9.0",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.0.exe",
+  "sha256": "AD83E6B3C51BCC783CD2AC209337FA681BB64549FAC3150A6223272E875D90D7",
+  "opis": "PrestaShop z modułem wielu magazynów: stany wysyłane osobno dla każdego magazynu, zamówienie dzielone na osobny dokument dla każdego magazynu.",
   "wersje": [
+    {
+      "wersja": "1.9.0",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.0.exe",
+      "sha256": "AD83E6B3C51BCC783CD2AC209337FA681BB64549FAC3150A6223272E875D90D7",
+      "opis": "PrestaShop z modułem wielu magazynów: stany wysyłane osobno dla każdego magazynu, zamówienie dzielone na osobny dokument dla każdego magazynu.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.8.3",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.8.3.exe",
