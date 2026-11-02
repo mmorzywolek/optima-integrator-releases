@@ -1,9 +1,16 @@
 {
-  "wersja": "1.9.1",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.1.exe",
-  "sha256": "6DB452544181C271EEED0858F8FFC82BA90BC9C79F04B6B3272771D51BECEAE3",
-  "opis": "Licencja bez WooCommerce nie zgłasza już błędu w nagłówku; czytelny komunikat przy złej nazwie firmy w logowaniu do Optimy.",
+  "wersja": "1.9.2",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.2.exe",
+  "sha256": "E27DEE65BFAB3B9CC30C41ADAAC3518BE971736697F53DEDF4EB13DD2623CE4E",
+  "opis": "Brak wolnej licencji Optimy zgłaszany wprost (nagłówek, dymek, Dziennik) i automatyczne ponowne logowanie co 2 minuty.",
   "wersje": [
+    {
+      "wersja": "1.9.2",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.2.exe",
+      "sha256": "E27DEE65BFAB3B9CC30C41ADAAC3518BE971736697F53DEDF4EB13DD2623CE4E",
+      "opis": "Brak wolnej licencji Optimy zgłaszany wprost (nagłówek, dymek, Dziennik) i automatyczne ponowne logowanie co 2 minuty.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.9.1",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.1.exe",
