@@ -1,9 +1,16 @@
 {
-  "wersja": "1.9.2",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.2.exe",
-  "sha256": "E27DEE65BFAB3B9CC30C41ADAAC3518BE971736697F53DEDF4EB13DD2623CE4E",
-  "opis": "Brak wolnej licencji Optimy zgłaszany wprost (nagłówek, dymek, Dziennik) i automatyczne ponowne logowanie co 2 minuty.",
+  "wersja": "1.9.3",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.3.exe",
+  "sha256": "9EC3DB27D0300C5787BD110C8F5B8572CCE8EC9C6D9A2CC52E855EE8F9B11A69",
+  "opis": "Kwoty dokumentów z PrestaShop (także przy podziale na magazyny) i WooCommerce zgodne ze sklepem co do grosza.",
   "wersje": [
+    {
+      "wersja": "1.9.3",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.3.exe",
+      "sha256": "9EC3DB27D0300C5787BD110C8F5B8572CCE8EC9C6D9A2CC52E855EE8F9B11A69",
+      "opis": "Kwoty dokumentów z PrestaShop (także przy podziale na magazyny) i WooCommerce zgodne ze sklepem co do grosza.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.9.2",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.2.exe",
