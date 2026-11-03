@@ -1,9 +1,16 @@
 {
-  "wersja": "1.9.3",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.3.exe",
-  "sha256": "9EC3DB27D0300C5787BD110C8F5B8572CCE8EC9C6D9A2CC52E855EE8F9B11A69",
-  "opis": "Kwoty dokumentów z PrestaShop (także przy podziale na magazyny) i WooCommerce zgodne ze sklepem co do grosza.",
+  "wersja": "1.9.4",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.4.exe",
+  "sha256": "7716DE313731B99D0B84343492A66D95DB020B9A2813BF3FCB2D4094A0734F6F",
+  "opis": "PrestaShop: rabaty z koszyka (kupony) rozkładane na pozycje — dokument na kwotę zapłaconą przez klienta.",
   "wersje": [
+    {
+      "wersja": "1.9.4",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.4.exe",
+      "sha256": "7716DE313731B99D0B84343492A66D95DB020B9A2813BF3FCB2D4094A0734F6F",
+      "opis": "PrestaShop: rabaty z koszyka (kupony) rozkładane na pozycje — dokument na kwotę zapłaconą przez klienta.",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.9.3",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.3.exe",
