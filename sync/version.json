@@ -1,9 +1,16 @@
 {
-  "wersja": "1.9.5",
-  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.5.exe",
-  "sha256": "D541A581ADD45CA54ED0C154D1CD3FAAA4CB3641F7E187E6D67478DBD6B54534",
-  "opis": "Listy cenników Optimy znów do wybrania w zadaniach cen (PrestaShop, WooCommerce) i przy nowych produktach PrestaShop.",
+  "wersja": "1.9.6",
+  "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.6.exe",
+  "sha256": "4A1EAA90E7F17C245CBF44884341AC33B478572B117CC1CA85BE2B712DEA5D83",
+  "opis": "PrestaShop: synchronizacja cen nie zatrzymuje się na produktach oznaczonych jako „nowe” (błąd „parameter new not writable”).",
   "wersje": [
+    {
+      "wersja": "1.9.6",
+      "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.6.exe",
+      "sha256": "4A1EAA90E7F17C245CBF44884341AC33B478572B117CC1CA85BE2B712DEA5D83",
+      "opis": "PrestaShop: synchronizacja cen nie zatrzymuje się na produktach oznaczonych jako „nowe” (błąd „parameter new not writable”).",
+      "optimaOd": "2026.5"
+    },
     {
       "wersja": "1.9.5",
       "url": "https://raw.githubusercontent.com/mmorzywolek/optima-integrator-releases/main/sync/OptimaSync-setup-1.9.5.exe",
